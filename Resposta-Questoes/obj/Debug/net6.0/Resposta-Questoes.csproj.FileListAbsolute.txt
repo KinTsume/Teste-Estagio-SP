@@ -1,0 +1,15 @@
+C:\Users\Usuário do Windows\Desktop\Teste-Estagio-SP\Resposta-Questoes\bin\Debug\net6.0\Resposta-Questoes.exe
+C:\Users\Usuário do Windows\Desktop\Teste-Estagio-SP\Resposta-Questoes\bin\Debug\net6.0\Resposta-Questoes.deps.json
+C:\Users\Usuário do Windows\Desktop\Teste-Estagio-SP\Resposta-Questoes\bin\Debug\net6.0\Resposta-Questoes.runtimeconfig.json
+C:\Users\Usuário do Windows\Desktop\Teste-Estagio-SP\Resposta-Questoes\bin\Debug\net6.0\Resposta-Questoes.dll
+C:\Users\Usuário do Windows\Desktop\Teste-Estagio-SP\Resposta-Questoes\bin\Debug\net6.0\Resposta-Questoes.pdb
+C:\Users\Usuário do Windows\Desktop\Teste-Estagio-SP\Resposta-Questoes\obj\Debug\net6.0\Resposta-Questoes.csproj.AssemblyReference.cache
+C:\Users\Usuário do Windows\Desktop\Teste-Estagio-SP\Resposta-Questoes\obj\Debug\net6.0\Resposta-Questoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário do Windows\Desktop\Teste-Estagio-SP\Resposta-Questoes\obj\Debug\net6.0\Resposta-Questoes.AssemblyInfoInputs.cache
+C:\Users\Usuário do Windows\Desktop\Teste-Estagio-SP\Resposta-Questoes\obj\Debug\net6.0\Resposta-Questoes.AssemblyInfo.cs
+C:\Users\Usuário do Windows\Desktop\Teste-Estagio-SP\Resposta-Questoes\obj\Debug\net6.0\Resposta-Questoes.csproj.CoreCompileInputs.cache
+C:\Users\Usuário do Windows\Desktop\Teste-Estagio-SP\Resposta-Questoes\obj\Debug\net6.0\Resposta-Questoes.dll
+C:\Users\Usuário do Windows\Desktop\Teste-Estagio-SP\Resposta-Questoes\obj\Debug\net6.0\refint\Resposta-Questoes.dll
+C:\Users\Usuário do Windows\Desktop\Teste-Estagio-SP\Resposta-Questoes\obj\Debug\net6.0\Resposta-Questoes.pdb
+C:\Users\Usuário do Windows\Desktop\Teste-Estagio-SP\Resposta-Questoes\obj\Debug\net6.0\Resposta-Questoes.genruntimeconfig.cache
+C:\Users\Usuário do Windows\Desktop\Teste-Estagio-SP\Resposta-Questoes\obj\Debug\net6.0\ref\Resposta-Questoes.dll
